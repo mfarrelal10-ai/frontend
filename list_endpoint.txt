@@ -1,0 +1,2 @@
+getALL : http://103.247.10.59:3000/api/categories
+http://203.194.115.172:3000/api/categories 
